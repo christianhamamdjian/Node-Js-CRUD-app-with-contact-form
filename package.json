@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_application",
+  "version": "1.0.0",
+  "description": "Using http, fs and Os modules",
+  "main": "http.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Node Js project"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "ip": "^1.1.5",
+    "nodemailer": "^6.7.8"
+  }
+}
